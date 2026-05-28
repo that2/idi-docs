@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/preparacion-equipo/ensamblaje-drone",
+  "title": "Ensamblaje de Drone",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/preparacion-equipo/ensamblaje-drone.md",
+  "sourceDirName": "ez-lidar/preparacion-equipo",
+  "slug": "/ez-lidar/preparacion-equipo/ensamblaje-drone",
+  "permalink": "/docs/ez-lidar/preparacion-equipo/ensamblaje-drone",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/preparacion-equipo/ensamblaje-drone.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "ensamblaje-drone",
+    "title": "Ensamblaje de Drone",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Listado de Componentes",
+    "permalink": "/docs/ez-lidar/preparacion-equipo/listado-componentes"
+  },
+  "next": {
+    "title": "Almacenamiento",
+    "permalink": "/docs/ez-lidar/almacenamiento"
+  }
+}

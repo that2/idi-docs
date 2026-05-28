@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda",
+  "title": "Configuración de Ecosonda",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda.md",
+  "sourceDirName": "hydrosurveyor-v1/preparacion-equipo",
+  "slug": "/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda",
+  "permalink": "/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "configuracion-ecosonda",
+    "title": "Configuración de Ecosonda",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Listado de Componentes",
+    "permalink": "/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes"
+  },
+  "next": {
+    "title": "Almacenamiento",
+    "permalink": "/docs/hydrosurveyor-v1/almacenamiento"
+  }
+}

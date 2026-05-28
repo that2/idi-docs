@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/planificacion-misiones",
+  "title": "Planificación de Misiones",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/planificacion-misiones.md",
+  "sourceDirName": "ez-lidar",
+  "slug": "/ez-lidar/planificacion-misiones",
+  "permalink": "/docs/ez-lidar/planificacion-misiones",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/planificacion-misiones.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "planificacion-misiones",
+    "title": "Planificación de Misiones",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Carga de Baterías",
+    "permalink": "/docs/ez-lidar/carga-baterias"
+  },
+  "next": {
+    "title": "Descarga de Datos",
+    "permalink": "/docs/ez-lidar/postproceso-lidar/descarga-datos"
+  }
+}

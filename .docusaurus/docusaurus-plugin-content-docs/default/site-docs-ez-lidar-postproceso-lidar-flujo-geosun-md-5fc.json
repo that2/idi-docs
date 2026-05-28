@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/postproceso-lidar/flujo-geosun",
+  "title": "Flujo de Trabajo Software GeoSun",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/postproceso-lidar/flujo-geosun.md",
+  "sourceDirName": "ez-lidar/postproceso-lidar",
+  "slug": "/ez-lidar/postproceso-lidar/flujo-geosun",
+  "permalink": "/docs/ez-lidar/postproceso-lidar/flujo-geosun",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/postproceso-lidar/flujo-geosun.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "flujo-geosun",
+    "title": "Flujo de Trabajo Software GeoSun",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Descarga de Datos",
+    "permalink": "/docs/ez-lidar/postproceso-lidar/descarga-datos"
+  },
+  "next": {
+    "title": "Playlist de EZL en YouTube",
+    "permalink": "/docs/ez-lidar/playlist-youtube"
+  }
+}

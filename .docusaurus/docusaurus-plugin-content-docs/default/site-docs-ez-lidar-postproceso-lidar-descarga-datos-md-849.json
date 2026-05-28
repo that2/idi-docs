@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/postproceso-lidar/descarga-datos",
+  "title": "Descarga de Datos",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/postproceso-lidar/descarga-datos.md",
+  "sourceDirName": "ez-lidar/postproceso-lidar",
+  "slug": "/ez-lidar/postproceso-lidar/descarga-datos",
+  "permalink": "/docs/ez-lidar/postproceso-lidar/descarga-datos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/postproceso-lidar/descarga-datos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "descarga-datos",
+    "title": "Descarga de Datos",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planificación de Misiones",
+    "permalink": "/docs/ez-lidar/planificacion-misiones"
+  },
+  "next": {
+    "title": "Flujo de Trabajo Software GeoSun",
+    "permalink": "/docs/ez-lidar/postproceso-lidar/flujo-geosun"
+  }
+}

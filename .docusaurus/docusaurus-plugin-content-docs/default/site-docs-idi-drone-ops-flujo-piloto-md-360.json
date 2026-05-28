@@ -1,0 +1,25 @@
+{
+  "id": "idi-drone-ops/flujo-piloto",
+  "title": "Flujo de Trabajo Piloto",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/idi-drone-ops/flujo-piloto.md",
+  "sourceDirName": "idi-drone-ops",
+  "slug": "/idi-drone-ops/flujo-piloto",
+  "permalink": "/docs/idi-drone-ops/flujo-piloto",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/idi-drone-ops/flujo-piloto.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "flujo-piloto",
+    "title": "Flujo de Trabajo Piloto",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flujo de Trabajo Administrador",
+    "permalink": "/docs/idi-drone-ops/flujo-admin"
+  }
+}

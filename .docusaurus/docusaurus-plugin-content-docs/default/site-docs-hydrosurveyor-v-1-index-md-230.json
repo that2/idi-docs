@@ -1,0 +1,25 @@
+{
+  "id": "hydrosurveyor-v1/hydrosurveyor-v1",
+  "title": "Hydrosurveyor V1",
+  "description": "Documentación completa del equipo Hydrosurveyor V1.",
+  "source": "@site/docs/hydrosurveyor-v1/index.md",
+  "sourceDirName": "hydrosurveyor-v1",
+  "slug": "/hydrosurveyor-v1/",
+  "permalink": "/docs/hydrosurveyor-v1/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "hydrosurveyor-v1",
+    "title": "Hydrosurveyor V1",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Listado de Componentes",
+    "permalink": "/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes"
+  }
+}

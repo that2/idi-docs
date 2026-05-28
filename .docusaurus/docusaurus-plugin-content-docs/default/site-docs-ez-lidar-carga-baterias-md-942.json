@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/carga-baterias",
+  "title": "Carga de Baterías",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/carga-baterias.md",
+  "sourceDirName": "ez-lidar",
+  "slug": "/ez-lidar/carga-baterias",
+  "permalink": "/docs/ez-lidar/carga-baterias",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/carga-baterias.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "carga-baterias",
+    "title": "Carga de Baterías",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Almacenamiento",
+    "permalink": "/docs/ez-lidar/almacenamiento"
+  },
+  "next": {
+    "title": "Planificación de Misiones",
+    "permalink": "/docs/ez-lidar/planificacion-misiones"
+  }
+}

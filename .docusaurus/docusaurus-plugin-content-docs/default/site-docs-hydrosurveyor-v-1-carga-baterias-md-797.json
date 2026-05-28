@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/carga-baterias",
+  "title": "Carga de Baterías",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/carga-baterias.md",
+  "sourceDirName": "hydrosurveyor-v1",
+  "slug": "/hydrosurveyor-v1/carga-baterias",
+  "permalink": "/docs/hydrosurveyor-v1/carga-baterias",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/carga-baterias.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "carga-baterias",
+    "title": "Carga de Baterías",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Almacenamiento",
+    "permalink": "/docs/hydrosurveyor-v1/almacenamiento"
+  },
+  "next": {
+    "title": "Planificación de Misiones",
+    "permalink": "/docs/hydrosurveyor-v1/planificacion-misiones"
+  }
+}

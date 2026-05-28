@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/almacenamiento",
+  "title": "Almacenamiento",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/almacenamiento.md",
+  "sourceDirName": "ez-lidar",
+  "slug": "/ez-lidar/almacenamiento",
+  "permalink": "/docs/ez-lidar/almacenamiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/almacenamiento.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "almacenamiento",
+    "title": "Almacenamiento",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ensamblaje de Drone",
+    "permalink": "/docs/ez-lidar/preparacion-equipo/ensamblaje-drone"
+  },
+  "next": {
+    "title": "Carga de Baterías",
+    "permalink": "/docs/ez-lidar/carga-baterias"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/almacenamiento",
+  "title": "Almacenamiento",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/almacenamiento.md",
+  "sourceDirName": "hydrosurveyor-v1",
+  "slug": "/hydrosurveyor-v1/almacenamiento",
+  "permalink": "/docs/hydrosurveyor-v1/almacenamiento",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/almacenamiento.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "almacenamiento",
+    "title": "Almacenamiento",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuración de Ecosonda",
+    "permalink": "/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda"
+  },
+  "next": {
+    "title": "Carga de Baterías",
+    "permalink": "/docs/hydrosurveyor-v1/carga-baterias"
+  }
+}

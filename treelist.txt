@@ -1,0 +1,28 @@
+hydrosurveyor v1
+	-Preparación del equipo
+		-listado de componentes
+		-configuración de ecosonda
+	-almacenamiento
+	-carga de baterías
+	-planificación de misiones
+	-postproceso de información batimetríca
+		-descarga de datos
+		-convertir archivo bin a csv
+		-flujo de trabajo en reefmaster
+	-Playlist de HS v1 en youtube
+
+EZ LiDAR (EZL)
+	-preparación del equipo
+		-listado de componentes
+		-ensamblaje de drone
+	-almacenamiento
+	-carga de baterías
+	-planificación de misiones
+	-postproceso de información lidar
+		-descarga de datos
+		-flujo de trabajo software GeoSun
+	-Playlist de EZL en youtube
+
+IDi Drone Ops
+	-flujo de trabajo admin
+	-flujo de trabajo piloto

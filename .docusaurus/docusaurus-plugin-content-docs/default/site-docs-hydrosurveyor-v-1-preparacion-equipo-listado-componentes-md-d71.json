@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/preparacion-equipo/listado-componentes",
+  "title": "Listado de Componentes",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes.md",
+  "sourceDirName": "hydrosurveyor-v1/preparacion-equipo",
+  "slug": "/hydrosurveyor-v1/preparacion-equipo/listado-componentes",
+  "permalink": "/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "listado-componentes",
+    "title": "Listado de Componentes",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hydrosurveyor V1",
+    "permalink": "/docs/hydrosurveyor-v1/"
+  },
+  "next": {
+    "title": "Configuración de Ecosonda",
+    "permalink": "/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda"
+  }
+}

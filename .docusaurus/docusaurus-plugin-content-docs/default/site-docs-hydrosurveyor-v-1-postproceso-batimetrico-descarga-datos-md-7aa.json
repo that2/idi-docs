@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/postproceso-batimetrico/descarga-datos",
+  "title": "Descarga de Datos",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos.md",
+  "sourceDirName": "hydrosurveyor-v1/postproceso-batimetrico",
+  "slug": "/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos",
+  "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "descarga-datos",
+    "title": "Descarga de Datos",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planificación de Misiones",
+    "permalink": "/docs/hydrosurveyor-v1/planificacion-misiones"
+  },
+  "next": {
+    "title": "Convertir Archivo BIN a CSV",
+    "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv"
+  }
+}

@@ -5,7 +5,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'IDi Docs',
   tagline: 'Documentación de productos y equipos desarrollados por IDi',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   future: {
     v4: true,
@@ -46,10 +46,11 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'IDi Docs',
+        title: '',
         logo: {
           alt: 'IDi Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
+          style: {height: '36px'},
         },
         items: [
           {

@@ -6,7 +6,7 @@
 export default {
   "title": "IDi Docs",
   "tagline": "Documentación de productos y equipos desarrollados por IDi",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favicon.png",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -65,10 +65,13 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "IDi Docs",
+      "title": "",
       "logo": {
         "alt": "IDi Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png",
+        "style": {
+          "height": "36px"
+        }
       },
       "items": [
         {

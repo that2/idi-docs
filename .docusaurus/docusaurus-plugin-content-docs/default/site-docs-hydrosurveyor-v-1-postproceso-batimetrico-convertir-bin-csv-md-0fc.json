@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv",
+  "title": "Convertir Archivo BIN a CSV",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv.md",
+  "sourceDirName": "hydrosurveyor-v1/postproceso-batimetrico",
+  "slug": "/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv",
+  "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "convertir-bin-csv",
+    "title": "Convertir Archivo BIN a CSV",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Descarga de Datos",
+    "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos"
+  },
+  "next": {
+    "title": "Flujo de Trabajo en Reefmaster",
+    "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster"
+  }
+}

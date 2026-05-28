@@ -1,30 +1,178 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+/* ================================================
+   IDi Docs - Custom Theme
+   Brand: Dark charcoal background + Orange accent
+   Matches: idi.com.gt
+   ================================================ */
 
-/* You can override the default Infima variables here. */
+/* ========== LIGHT THEME ========== */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-color-primary: #e87200;
+  --ifm-color-primary-dark: #d06600;
+  --ifm-color-primary-darker: #b85a00;
+  --ifm-color-primary-darkest: #8c4400;
+  --ifm-color-primary-light: #ff8c1a;
+  --ifm-color-primary-lighter: #ffa040;
+  --ifm-color-primary-lightest: #ffb366;
+  --ifm-background-color: #f5f5f5;
+  --ifm-navbar-background-color: #1a1a1a;
+  --ifm-navbar-link-color: #ffffff;
+  --ifm-navbar-link-hover-color: #e87200;
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --docusaurus-highlighted-code-line-bg: rgba(232, 114, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
+/* ========== DARK THEME ========== */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-color-primary: #ff8c1a;
+  --ifm-color-primary-dark: #e87200;
+  --ifm-color-primary-darker: #d06600;
+  --ifm-color-primary-darkest: #b85a00;
+  --ifm-color-primary-light: #ffa040;
+  --ifm-color-primary-lighter: #ffb366;
+  --ifm-color-primary-lightest: #ffc266;
+  --ifm-background-color: #1a1a1a;
+  --ifm-background-surface-color: #222222;
+  --ifm-navbar-background-color: #111111;
+  --ifm-footer-background-color: #111111;
+  --ifm-font-color-base: #f0f0f0;
+  --docusaurus-highlighted-code-line-bg: rgba(255, 140, 26, 0.15);
+}
+
+/* ========== NAVBAR ========== */
+.navbar {
+  background-color: #111111;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+.navbar__title {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.navbar__link {
+  color: #ffffff;
+}
+
+.navbar__link:hover,
+.navbar__link--active {
+  color: #e87200;
+}
+
+/* ========== SIDEBAR ========== */
+[data-theme='dark'] .theme-doc-sidebar-container {
+  background-color: #222222;
+  border-right: 1px solid #333333;
+}
+
+[data-theme='dark'] .menu__link {
+  color: #cccccc;
+}
+
+[data-theme='dark'] .menu__link:hover {
+  color: #e87200;
+  background-color: rgba(232, 114, 0, 0.08);
+}
+
+[data-theme='dark'] .menu__link--active {
+  color: #ff8c1a;
+  border-left: 3px solid #e87200;
+  background-color: rgba(232, 114, 0, 0.1);
+}
+
+[data-theme='dark'] .menu__caret::before {
+  border-color: #cccccc;
+}
+
+/* ========== HEADINGS ========== */
+[data-theme='dark'] h1,
+[data-theme='dark'] h2,
+[data-theme='dark'] h3 {
+  color: #ffffff;
+}
+
+/* ========== PAGINATION (Siguiente/Anterior buttons) ========== */
+.pagination-nav__link {
+  border-color: #333333;
+}
+
+.pagination-nav__link:hover {
+  border-color: #e87200;
+}
+
+[data-theme='dark'] .pagination-nav__link {
+  background-color: #222222;
+  border-color: #333333;
+}
+
+[data-theme='dark'] .pagination-nav__link:hover {
+  border-color: #e87200;
+  background-color: rgba(232, 114, 0, 0.08);
+}
+
+[data-theme='dark'] .pagination-nav__label {
+  color: #ff8c1a;
+}
+
+[data-theme='dark'] .pagination-nav__link:hover .pagination-nav__label {
+  color: #e87200;
+}
+
+[data-theme='dark'] .pagination-nav__sublabel {
+  color: #888888;
+}
+
+/* ========== BREADCRUMBS ========== */
+[data-theme='dark'] .breadcrumbs__link {
+  color: #aaaaaa;
+}
+
+[data-theme='dark'] .breadcrumbs__item--active .breadcrumbs__link {
+  color: #ff8c1a;
+}
+
+/* ========== TABLE OF CONTENTS (right side) ========== */
+[data-theme='dark'] .table-of-contents__link {
+  color: #aaaaaa;
+}
+
+[data-theme='dark'] .table-of-contents__link:hover,
+[data-theme='dark'] .table-of-contents__link--active {
+  color: #e87200;
+}
+
+/* ========== LINKS ========== */
+[data-theme='dark'] a {
+  color: #ff8c1a;
+}
+
+[data-theme='dark'] a:hover {
+  color: #e87200;
+}
+
+/* ========== FOOTER ========== */
+.footer {
+  background-color: #111111;
+  border-top: 1px solid #333333;
+}
+
+.footer__title {
+  color: #ffffff;
+}
+
+.footer__link-item {
+  color: #aaaaaa;
+}
+
+.footer__link-item:hover {
+  color: #e87200;
+}
+
+.footer__copyright {
+  color: #666666;
+}
+
+/* ========== CODE BLOCKS ========== */
+[data-theme='dark'] code {
+  background-color: #2a2a2a;
+  border-color: #444444;
 }

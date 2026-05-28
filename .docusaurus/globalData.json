@@ -8,61 +8,116 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "hydrosurveyor-v1/hydrosurveyor-v1",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "ez-lidar/almacenamiento",
+              "path": "/docs/ez-lidar/almacenamiento",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "ez-lidar/carga-baterias",
+              "path": "/docs/ez-lidar/carga-baterias",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "ez-lidar/ez-lidar",
+              "path": "/docs/ez-lidar/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "ez-lidar/planificacion-misiones",
+              "path": "/docs/ez-lidar/planificacion-misiones",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "ez-lidar/playlist-youtube",
+              "path": "/docs/ez-lidar/playlist-youtube",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "ez-lidar/postproceso-lidar/descarga-datos",
+              "path": "/docs/ez-lidar/postproceso-lidar/descarga-datos",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "ez-lidar/postproceso-lidar/flujo-geosun",
+              "path": "/docs/ez-lidar/postproceso-lidar/flujo-geosun",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "ez-lidar/preparacion-equipo/ensamblaje-drone",
+              "path": "/docs/ez-lidar/preparacion-equipo/ensamblaje-drone",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "ez-lidar/preparacion-equipo/listado-componentes",
+              "path": "/docs/ez-lidar/preparacion-equipo/listado-componentes",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "hydrosurveyor-v1/almacenamiento",
+              "path": "/docs/hydrosurveyor-v1/almacenamiento",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "hydrosurveyor-v1/carga-baterias",
+              "path": "/docs/hydrosurveyor-v1/carga-baterias",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/hydrosurveyor-v1",
+              "path": "/docs/hydrosurveyor-v1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/planificacion-misiones",
+              "path": "/docs/hydrosurveyor-v1/planificacion-misiones",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/playlist-youtube",
+              "path": "/docs/hydrosurveyor-v1/playlist-youtube",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv",
+              "path": "/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/postproceso-batimetrico/descarga-datos",
+              "path": "/docs/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster",
+              "path": "/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda",
+              "path": "/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "hydrosurveyor-v1/preparacion-equipo/listado-componentes",
+              "path": "/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "idi-drone-ops/flujo-admin",
+              "path": "/docs/idi-drone-ops/flujo-admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "idi-drone-ops/flujo-piloto",
+              "path": "/docs/idi-drone-ops/flujo-piloto",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "idi-drone-ops/idi-drone-ops",
+              "path": "/docs/idi-drone-ops/",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +125,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/hydrosurveyor-v1/",
+                "label": "Hydrosurveyor V1"
               }
             }
           }

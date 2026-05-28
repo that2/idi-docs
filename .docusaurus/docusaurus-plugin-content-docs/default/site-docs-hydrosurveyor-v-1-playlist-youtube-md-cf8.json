@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/playlist-youtube",
+  "title": "Playlist de HS V1 en YouTube",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/playlist-youtube.md",
+  "sourceDirName": "hydrosurveyor-v1",
+  "slug": "/hydrosurveyor-v1/playlist-youtube",
+  "permalink": "/docs/hydrosurveyor-v1/playlist-youtube",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/playlist-youtube.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "playlist-youtube",
+    "title": "Playlist de HS V1 en YouTube",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flujo de Trabajo en Reefmaster",
+    "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster"
+  },
+  "next": {
+    "title": "EZ LiDAR (EZL)",
+    "permalink": "/docs/ez-lidar/"
+  }
+}

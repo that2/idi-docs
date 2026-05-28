@@ -1,0 +1,29 @@
+{
+  "id": "hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster",
+  "title": "Flujo de Trabajo en Reefmaster",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster.md",
+  "sourceDirName": "hydrosurveyor-v1/postproceso-batimetrico",
+  "slug": "/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster",
+  "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "flujo-reefmaster",
+    "title": "Flujo de Trabajo en Reefmaster",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Convertir Archivo BIN a CSV",
+    "permalink": "/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv"
+  },
+  "next": {
+    "title": "Playlist de HS V1 en YouTube",
+    "permalink": "/docs/hydrosurveyor-v1/playlist-youtube"
+  }
+}

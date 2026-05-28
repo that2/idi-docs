@@ -1,0 +1,29 @@
+{
+  "id": "ez-lidar/playlist-youtube",
+  "title": "Playlist de EZL en YouTube",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/ez-lidar/playlist-youtube.md",
+  "sourceDirName": "ez-lidar",
+  "slug": "/ez-lidar/playlist-youtube",
+  "permalink": "/docs/ez-lidar/playlist-youtube",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/ez-lidar/playlist-youtube.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "playlist-youtube",
+    "title": "Playlist de EZL en YouTube",
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Flujo de Trabajo Software GeoSun",
+    "permalink": "/docs/ez-lidar/postproceso-lidar/flujo-geosun"
+  },
+  "next": {
+    "title": "IDi Drone Ops",
+    "permalink": "/docs/idi-drone-ops/"
+  }
+}

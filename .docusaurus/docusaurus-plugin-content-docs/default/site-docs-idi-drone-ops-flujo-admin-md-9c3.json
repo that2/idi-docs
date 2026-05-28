@@ -1,0 +1,29 @@
+{
+  "id": "idi-drone-ops/flujo-admin",
+  "title": "Flujo de Trabajo Administrador",
+  "description": "Contenido pendiente.",
+  "source": "@site/docs/idi-drone-ops/flujo-admin.md",
+  "sourceDirName": "idi-drone-ops",
+  "slug": "/idi-drone-ops/flujo-admin",
+  "permalink": "/docs/idi-drone-ops/flujo-admin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/idi-drone-ops/flujo-admin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "flujo-admin",
+    "title": "Flujo de Trabajo Administrador",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IDi Drone Ops",
+    "permalink": "/docs/idi-drone-ops/"
+  },
+  "next": {
+    "title": "Flujo de Trabajo Piloto",
+    "permalink": "/docs/idi-drone-ops/flujo-piloto"
+  }
+}

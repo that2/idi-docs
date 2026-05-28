@@ -1,0 +1,29 @@
+{
+  "id": "idi-drone-ops/idi-drone-ops",
+  "title": "IDi Drone Ops",
+  "description": "Documentación de flujos de trabajo para IDi Drone Ops.",
+  "source": "@site/docs/idi-drone-ops/index.md",
+  "sourceDirName": "idi-drone-ops",
+  "slug": "/idi-drone-ops/",
+  "permalink": "/docs/idi-drone-ops/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/that2/idi-docs/tree/main/docs/idi-drone-ops/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "idi-drone-ops",
+    "title": "IDi Drone Ops",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Playlist de EZL en YouTube",
+    "permalink": "/docs/ez-lidar/playlist-youtube"
+  },
+  "next": {
+    "title": "Flujo de Trabajo Administrador",
+    "permalink": "/docs/idi-drone-ops/flujo-admin"
+  }
+}
