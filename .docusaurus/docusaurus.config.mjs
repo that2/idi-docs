@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "IDi Docs",
+  "tagline": "Documentación de productos y equipos desarrollados por IDi",
   "favicon": "img/favicon.ico",
   "future": {
     "v4": {
@@ -29,15 +29,15 @@ export default {
       "gitEagerVcs": true
     }
   },
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://docs.idi.com.gt",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "that2",
+  "projectName": "idi-docs",
   "onBrokenLinks": "throw",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "es",
     "locales": [
-      "en"
+      "es"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -48,22 +48,9 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/that2/idi-docs/tree/main/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "feedOptions": {
-            "type": [
-              "rss",
-              "atom"
-            ],
-            "xslt": true
-          },
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-          "onInlineTags": "warn",
-          "onInlineAuthors": "warn",
-          "onUntruncatedBlogPosts": "warn"
-        },
+        "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -78,9 +65,9 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My Site",
+      "title": "IDi Docs",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "IDi Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -88,16 +75,11 @@ export default {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
+          "label": "Documentación"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
+          "href": "https://idi.com.gt",
+          "label": "idi.com.gt",
           "position": "right"
         }
       ],
@@ -107,46 +89,25 @@ export default {
       "style": "dark",
       "links": [
         {
-          "title": "Docs",
+          "title": "Documentación",
           "items": [
             {
-              "label": "Tutorial",
+              "label": "Inicio",
               "to": "/docs/intro"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "IDi",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
-              "label": "X",
-              "href": "https://x.com/docusaurus"
-            }
-          ]
-        },
-        {
-          "title": "More",
-          "items": [
-            {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
-              "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "label": "Sitio web",
+              "href": "https://idi.com.gt"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2026 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2026 IDi. Desarrollado con Docusaurus."
     },
     "prism": {
       "theme": {
