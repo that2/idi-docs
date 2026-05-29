@@ -1,160 +1,117 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/markdown-page-53a": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-4-c-6-c89"
+    "content": "4c678320"
   },
   "/docs-df0": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
   "/docs-a98": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
   "/docs-d6a": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/ez-lidar/-1ee": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-014-ec3"
+    "__comp": "17896441",
+    "content": "01473d95"
   },
   "/docs/ez-lidar/almacenamiento-944": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-almacenamiento-6-a-5-fab"
+    "__comp": "17896441",
+    "content": "6a50ecd6"
   },
   "/docs/ez-lidar/carga-baterias-88f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-carga-baterias-942-286"
+    "__comp": "17896441",
+    "content": "942f5c1a"
   },
   "/docs/ez-lidar/planificacion-misiones-ab3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-planificacion-misionescbb-6de"
+    "__comp": "17896441",
+    "content": "cbb32d36"
   },
   "/docs/ez-lidar/playlist-youtube-cd3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-playlist-youtube-99-e-4c8"
+    "__comp": "17896441",
+    "content": "99e6d156"
   },
   "/docs/ez-lidar/postproceso-lidar/descarga-datos-aca": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-postproceso-lidar-descarga-datos-849-021"
+    "__comp": "17896441",
+    "content": "849c1a83"
   },
   "/docs/ez-lidar/postproceso-lidar/flujo-geosun-1bf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-postproceso-lidar-flujo-geosun-5-fc-5e5"
+    "__comp": "17896441",
+    "content": "5fc4e2ba"
   },
   "/docs/ez-lidar/preparacion-equipo/ensamblaje-drone-4ed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-preparacion-equipo-ensamblaje-drone-105-590"
+    "__comp": "17896441",
+    "content": "1050aef9"
   },
   "/docs/ez-lidar/preparacion-equipo/listado-componentes-2bd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ez-lidar-preparacion-equipo-listado-componentes-95-b-ee4"
+    "__comp": "17896441",
+    "content": "95b33698"
   },
   "/docs/hydrosurveyor-v1/-607": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-230-668"
+    "__comp": "17896441",
+    "content": "2307055f"
   },
   "/docs/hydrosurveyor-v1/almacenamiento-6cf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-almacenamiento-199-d97"
+    "__comp": "17896441",
+    "content": "1997feaa"
   },
   "/docs/hydrosurveyor-v1/carga-baterias-842": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-carga-baterias-797-10a"
+    "__comp": "17896441",
+    "content": "7974986f"
   },
   "/docs/hydrosurveyor-v1/planificacion-misiones-d52": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-planificacion-misiones-33-d-2b9"
+    "__comp": "17896441",
+    "content": "33d3b461"
   },
   "/docs/hydrosurveyor-v1/playlist-youtube-56f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-playlist-youtubecf-8-18f"
+    "__comp": "17896441",
+    "content": "cf8a890a"
   },
   "/docs/hydrosurveyor-v1/postproceso-batimetrico/convertir-bin-csv-36f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-postproceso-batimetrico-convertir-bin-csv-0-fc-2f7"
+    "__comp": "17896441",
+    "content": "0fc87248"
   },
   "/docs/hydrosurveyor-v1/postproceso-batimetrico/descarga-datos-fbd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-postproceso-batimetrico-descarga-datos-7-aa-014"
+    "__comp": "17896441",
+    "content": "7aa64c33"
   },
   "/docs/hydrosurveyor-v1/postproceso-batimetrico/flujo-reefmaster-c61": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-postproceso-batimetrico-flujo-reefmaster-164-175"
+    "__comp": "17896441",
+    "content": "164fa110"
   },
   "/docs/hydrosurveyor-v1/preparacion-equipo/configuracion-ecosonda-a8d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-preparacion-equipo-configuracion-ecosondaa-91-401"
+    "__comp": "17896441",
+    "content": "a9101eb4"
   },
   "/docs/hydrosurveyor-v1/preparacion-equipo/listado-componentes-bdd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-hydrosurveyor-v-1-preparacion-equipo-listado-componentesd-71-44a"
+    "__comp": "17896441",
+    "content": "d714dbac"
   },
   "/docs/idi-drone-ops/-663": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-idi-drone-ops-9-e-4-84d"
+    "__comp": "17896441",
+    "content": "9e407ff9"
   },
   "/docs/idi-drone-ops/flujo-admin-00c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-idi-drone-ops-flujo-admin-9-c-3-55c"
+    "__comp": "17896441",
+    "content": "9c35a43a"
   },
   "/docs/idi-drone-ops/flujo-piloto-402": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-idi-drone-ops-flujo-piloto-360-60f"
+    "__comp": "17896441",
+    "content": "360c6177"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---markdown-pagea-74-7b5"
+      "plugin": "a7456010"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
