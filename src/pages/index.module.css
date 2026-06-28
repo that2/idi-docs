@@ -1,69 +1,122 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
+/* ── Hero ──────────────────────────────────────────────────── */
 .hero {
   min-height: calc(100vh - 60px);
   display: flex;
   align-items: center;
   justify-content: center;
   background-color: #1a1a1a;
+  padding: 3rem 1.5rem;
 }
 
 .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   text-align: center;
-  padding: 2rem;
+  width: 100%;
+  max-width: 980px;
 }
 
+/* ── Header ────────────────────────────────────────────────── */
 .logo {
   height: 80px;
   margin-bottom: 2rem;
+  object-fit: contain;
 }
 
 .title {
   font-size: 2.5rem;
+  font-weight: 700;
   color: #ffffff;
-  margin-bottom: 0.5rem;
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
 }
 
 .subtitle {
-  font-size: 1.2rem;
-  color: #aaaaaa;
-  margin-bottom: 3rem;
+  font-size: 1.15rem;
+  color: #939598;
+  margin: 0 0 3rem;
 }
 
+/* ── Cards grid ─────────────────────────────────────────────── */
 .cards {
   display: flex;
+  flex-wrap: wrap;
   gap: 1.5rem;
   justify-content: center;
-  flex-wrap: wrap;
+  width: 100%;
 }
 
+/* ── Individual card ────────────────────────────────────────── */
 .card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 260px;
+  padding: 2.25rem 1.5rem;
   background-color: #222222;
   border: 1px solid #333333;
-  border-radius: 8px;
-  padding: 2rem;
-  width: 220px;
+  border-radius: 10px;
   text-decoration: none;
-  transition: border-color 0.2s, transform 0.2s;
+  transition: border-color 0.22s ease, transform 0.22s ease, box-shadow 0.22s ease;
 }
 
 .card:hover {
-  border-color: #e87200;
-  transform: translateY(-4px);
+  border-color: #fb9c30;
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(251, 156, 48, 0.14);
   text-decoration: none;
 }
 
-.card h2 {
-  color: #ffffff;
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
+/* ── Icon ──────────────────────────────────────────────────── */
+.cardIcon {
+  color: #fb9c30;
+  width: 56px;
+  height: 56px;
+  margin-bottom: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
 }
 
-.card p {
-  color: #aaaaaa;
-  font-size: 0.9rem;
+.cardIcon svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* ── Card title ─────────────────────────────────────────────── */
+.cardTitle {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #ffffff;
   margin: 0;
+  line-height: 1.3;
+  letter-spacing: 0.01em;
+}
+
+/* ── Responsive: tablet → 2 columns ────────────────────────── */
+/* Flexbox wraps naturally when 3 × 260px + gaps exceed container */
+
+/* ── Responsive: mobile → 1 column ─────────────────────────── */
+@media (max-width: 600px) {
+  .title {
+    font-size: 1.8rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .cards {
+    gap: 1rem;
+  }
+
+  .card {
+    flex: 1 1 100%;
+    max-width: 360px;
+    padding: 1.75rem 1.25rem;
+  }
 }

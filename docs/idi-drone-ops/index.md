@@ -1,7 +1,7 @@
 ---
 id: idi-drone-ops
 title: IDi Drone Ops
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 # IDi Drone Ops
