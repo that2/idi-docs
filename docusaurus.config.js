@@ -74,7 +74,7 @@ const config = {
             items: [
               {
                 label: 'Inicio',
-                to: '/docs/hydrosurveyor-v1',
+                to: '/docs/drones/hydrosurveyor-v1',
               },
             ],
           },
