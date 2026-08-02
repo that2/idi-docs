@@ -25,7 +25,7 @@ Si deseas restaurar el georeceptor al modo de por default sigue los siguientes p
 3. Copia el archivo a la microSD
 4. Listo, tu Facet F9P se inicializará con los valores restaurados de fábrica, listo para trabajar en modo base.
 
-<a href="./SFE_Facet_Settings_0.txt" download style={{display: 'inline-block', fontSize: '1.2rem', fontWeight: 'bold', padding: '10px 20px', backgroundColor: 'var(--ifm-color-primary)', color: 'white', borderRadius: '8px', textDecoration: 'none'}}>📥 Descargar archivo de configuración</a>
+<a href="/files/SFE_Facet_Settings_0.txt" download style={{display: 'inline-block', fontSize: '1.2rem', fontWeight: 'bold', padding: '10px 20px', backgroundColor: 'var(--ifm-color-primary)', color: 'white', borderRadius: '8px', textDecoration: 'none'}}>📥 Descargar archivo de configuración</a>
 
 
 
