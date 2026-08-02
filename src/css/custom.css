@@ -58,6 +58,9 @@
   --idi-sidebar-active-color:  #fb9c30;
   --idi-sidebar-active-bg:     rgba(251, 156, 48, 0.09);
   --idi-sidebar-active-border: #fb9c30;
+
+  /* Card tokens (homepage / section-landing grids) */
+  --idi-card-border: #dfe3e8;
 }
 
 /* ═══════════════════════════════════════════════
@@ -101,6 +104,9 @@
   --idi-sidebar-active-color:  #fb9c30;
   --idi-sidebar-active-bg:     rgba(251, 156, 48, 0.11);
   --idi-sidebar-active-border: #fb9c30;
+
+  /* Card tokens (homepage / section-landing grids) */
+  --idi-card-border: #333333;
 }
 
 /* ═══════════════════════════════════════════════

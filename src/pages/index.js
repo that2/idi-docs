@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import Link from '@docusaurus/Link';
+import CardGrid from '@site/src/components/CardGrid';
 import styles from './index.module.css';
 
 // ── Icons ─────────────────────────────────────────────────────
@@ -67,7 +67,7 @@ const CATEGORIES = [
   { label: 'Drones',        link: '/docs/drones',        Icon: DroneIcon    },
   { label: 'Cargadores',    link: '/docs/cargadores',    Icon: CargadorIcon },
   { label: 'Sensores',      link: '/docs/sensores',      Icon: SensorIcon   },
-  { label: 'IDi-CORS',      link: '/docs/idi-cors',      Icon: CorsIcon     },
+  { label: 'GNSS',      link: '/docs/gnss',      Icon: CorsIcon     },
   { label: 'IDi Drone Ops', link: '/docs/idi-drone-ops', Icon: DroneOpsIcon },
 ];
 
@@ -84,16 +84,7 @@ export default function Home() {
           <h1 className={styles.title}>Documentación de Equipos</h1>
           <p className={styles.subtitle}>Desarrollados por IDiSA</p>
 
-          <div className={styles.cards}>
-            {CATEGORIES.map(({ label, link, Icon }) => (
-              <Link key={label} to={link} className={styles.card}>
-                <div className={styles.cardIcon}>
-                  <Icon />
-                </div>
-                <h2 className={styles.cardTitle}>{label}</h2>
-              </Link>
-            ))}
-          </div>
+          <CardGrid items={CATEGORIES} />
         </div>
       </main>
     </Layout>
