@@ -46,6 +46,17 @@
   height: 100%;
 }
 
+/* ── Image (scaled to a common height, natural aspect ratio) ─── */
+.cardImage {
+  height: 80px;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+  margin-bottom: 1.25rem;
+  flex-shrink: 0;
+}
+
 /* ── Card title ─────────────────────────────────────────────── */
 .cardTitle {
   font-size: 1rem;

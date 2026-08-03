@@ -4,10 +4,11 @@ title: GNSS
 sidebar_position: 4
 ---
 
-# Equipos GNSS
+import CardGrid from '@site/src/components/CardGrid';
 
-En esta sección encontrarás la documentación de: 
+export const items = [
+  {label: 'Facet F9P', link: '/docs/gnss/facet-f9p', image: '/img/gnss/f9p.png'},
+  {label: 'SparkPNT FPX', link: '/docs/gnss/sparkpnt-fpx', image: '/img/gnss/pnt-fpx.png'},
+];
 
--Sparkfun Facet F9P
-
--Sparkfun FPX
+<CardGrid items={items} />
