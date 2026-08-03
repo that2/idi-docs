@@ -8,7 +8,7 @@ sidebar_position: 2
 
 ## Descargar Convertidor .UBX / .RTCM3 a RINEX
 
-<a href="/files/RTKLIB_EX_2.5.0.zip" download style={{display: 'inline-block', fontSize: '1.2rem', fontWeight: 'bold', padding: '10px 20px', backgroundColor: 'var(--ifm-color-primary)', color: 'white', borderRadius: '8px', textDecoration: 'none'}}>📥 Descargar RTKLIB EX 2.5.0</a>
+<a href="https://idi.com.gt/tiles/sf/RTKLIB_EX_2.5.0.zip" download style={{display: 'inline-block', fontSize: '1.2rem', fontWeight: 'bold', padding: '10px 20px', backgroundColor: 'var(--ifm-color-primary)', color: 'white', borderRadius: '8px', textDecoration: 'none'}}>📥 Descargar RTKLIB EX 2.5.0</a>
 
 ## Procedimiento para Convertir .UBX / .RTCM3 a RINEX
 
