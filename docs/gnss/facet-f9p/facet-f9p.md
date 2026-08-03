@@ -5,7 +5,7 @@ sidebar_position: 1
 ---
 
 # GNSS Sparkfun Facet F9P
-![Portada EZ LiDAR](./facet-f9p.webp)
+![Portada FacetF9P](/img/gnss/f9p.png)
 ## Datos técnicos
 | Característica       | Especificación         |
 |------------------------|--------------------------|
