@@ -10,6 +10,18 @@ sidebar_position: 1
 ## Manual oficial
 [Descarga el Manual Inglés](https://genstattu.com/content/instock/IMARSD1000manual.pdf?srsltid=AfmBOoo_44GdUuuC_G95itNpOH3y0eiw6RuErS2Qsmwx9m-1R4XihKKh)
 
+## Videotutorial de uso
+
+<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', maxWidth: '100%'}}>
+  <iframe
+    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
+    src="https://www.youtube.com/embed/iyFSw8H269M" 
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullScreen>
+  </iframe>
+</div>
 
 ## Especificaciones Técnicas
 
@@ -26,3 +38,4 @@ sidebar_position: 1
 | Dimensiones | 186 × 174 × 95 mm |
 | Peso | Aprox. 1.7 kg |
 | Baterías compatibles | LiPo / LiHV (1–7S) |
+
