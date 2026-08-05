@@ -1,7 +1,7 @@
 ---
 id: creacion-crs
 title: Creación de CRS
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Configuración de Sistema de Referencia de Coordenadas (CRS) en Points Creator

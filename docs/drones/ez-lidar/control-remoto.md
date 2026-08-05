@@ -26,7 +26,7 @@ Utilice el cargador y cable provistos con el control remoto para realizar la car
 
 :::danger[Cargar solo apagado]
 
-Cargue el control únicamente cuando este se encuentre apagado. Cargarlo mientras está encendido dañará de manera permanente el dispositivo.
+Cargue el control únicamente cuando este se encuentre apagado. Cargarlo mientras está encendido dañará de manera permanente el dispositivo. Utilice únicamente el cargador y cable provisto con el control.
 
 :::
 
@@ -34,24 +34,12 @@ Cargue el control únicamente cuando este se encuentre apagado. Cargarlo mientra
 
 :::info[Contenido en preparación]
 
-El material de capacitación original marca esta sección como pendiente de completar (enlace a IDi Docs y video por publicar).
+Pendiente de publicar.
 
 :::
 
-## 🛩️ 2.5 Física del dron
 
-<div style={{position: 'relative', paddingBottom: '56.25%', height: 0, overflow: 'hidden', maxWidth: '100%'}}>
-  <iframe
-    style={{position: 'absolute', top: 0, left: 0, width: '100%', height: '100%'}}
-    src="https://www.youtube.com/embed/tNuISxCC4Y0"
-    title="Física del dron"
-    frameBorder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowFullScreen>
-  </iframe>
-</div>
-
-## 🕹️ 2.6 Controles y modos de vuelo
+## 🕹️ 2.4 Controles y modos de vuelo
 
 - **Acelerador:** movimiento vertical del stick izquierdo.
 - **Yaw:** movimiento horizontal del stick izquierdo — giro izquierda / derecha.
@@ -88,3 +76,35 @@ RTL es la salida segura. Ante cualquier duda o emergencia, cambie a RTL.
 :::
 
 ![Ejes de movimiento Pitch, Roll y Yaw](./control-remoto-images/page-25.png)
+
+
+### 🛩️ Armado y Desarmado
+Esta secuencia de comandos únicamente la podemos realizar cuando el dron se encuentra en **Modo de vuelo Loiter**.
+
+- **Armado:** Se refiere a activar los motores, únicamente debemos hacerlo cuando ya estamos listos para despegar, luego de haber realizado todas las verificaciones previas del vuelo. 
+- **Desarmado:** Se refiere a desactivar los motores, lo ejecutamos posteriormente al aterrizaje.
+
+
+:::tip[Secuencia de armado]
+
+1. Mueva el stick izquierdo (acelerador) de forma central y completamente hacia abajo. 
+2. Una vez abajo, mueva el stick izquierdo, completamente hacia la derecha. 
+3. Espere 5 segundos en esa posición, el dron mostrará en QGC un mensaje de dron armado y las hélices comenzaran a girar.
+4. Mateniendo el acelerador abajo, regréselo hacia el centro y súbalo letamente para comenzar a elevar el dron. 
+
+:::
+
+![armado](./control-remoto-images/arm.png)
+
+
+:::danger[Secuencia de desarmado]
+
+1. Espere a que el dron aterrice completamente y se encuentre estable. 
+2. Mueva el stick izquierdo (acelerador) de forma central y completamente hacia abajo. 
+2. Una vez abajo, mueva el stick izquierdo, completamente hacia la izquierda. 
+3. Espere 5 segundos en esa posición, el dron mostrará en QGC un mensaje de dron desarmado y las hélices dejarán de girar.
+4. A partir de este momento es seguro manipular el dron.
+
+:::
+
+![disar](./control-remoto-images/disarm.png)

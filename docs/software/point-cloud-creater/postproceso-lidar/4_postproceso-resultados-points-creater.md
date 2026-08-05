@@ -1,7 +1,7 @@
 ---
 id: postproceso-resultados-points-creater
 title: Postproceso y visualización de resultados
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 # Postproceso Points Creator y visualización de resultados

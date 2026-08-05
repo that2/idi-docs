@@ -62,6 +62,19 @@ const DroneOpsIcon = () => (
   </svg>
 );
 
+const SoftwareIcon = () => (
+  <svg width="56" height="56" viewBox="0 0 56 56" fill="none" aria-hidden="true">
+    <rect x="5" y="10" width="46" height="34" rx="3" stroke="currentColor" strokeWidth="3" fill="none" />
+    <line x1="5" y1="19" x2="51" y2="19" stroke="currentColor" strokeWidth="3" />
+    <circle cx="11" cy="14.5" r="1.6" fill="currentColor" />
+    <circle cx="16" cy="14.5" r="1.6" fill="currentColor" />
+    <polyline points="16,26 10,31.5 16,37" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+    <polyline points="32,26 38,31.5 32,37" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" fill="none" />
+    <line x1="26" y1="24" x2="22" y2="39" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" opacity="0.75" />
+    <line x1="18" y1="50" x2="38" y2="50" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" opacity="0.6" />
+  </svg>
+);
+
 // ── Category data ──────────────────────────────────────────────
 const CATEGORIES = [
   { label: 'Drones',        link: '/docs/drones',        Icon: DroneIcon    },
@@ -69,6 +82,7 @@ const CATEGORIES = [
   { label: 'Sensores',      link: '/docs/sensores',      Icon: SensorIcon   },
   { label: 'GNSS',      link: '/docs/gnss',      Icon: CorsIcon     },
   { label: 'IDi Drone Ops', link: '/docs/idi-drone-ops', Icon: DroneOpsIcon },
+  { label: 'Software',      link: '/docs/software',      Icon: SoftwareIcon },
 ];
 
 // ── Page ───────────────────────────────────────────────────────
