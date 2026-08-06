@@ -22,7 +22,7 @@ Diseñado  y  ensamblado  en  Guatemala, EZ  LIDAR  redefine  la  exploración  
 | Propulsión              | Eléctrica                |
 | Autonomía de vuelo      | 30 minutos máximo con payload de 1 kg    |
 | Velocidad de crucero    | 25 km/h (7 m/s)                   |
-| Velocidad maxima        | 18 km/h (20 m/s)                  |
+| Velocidad maxima        | 72 km/h (20 m/s)                  |
 | Modos de vuelo          | Manual / Automático       |
 | Capacidad de carga      | 2.2 kg                    |
 | Peso total (AUW)		| 8.2 kg 					|
