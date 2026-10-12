@@ -75,8 +75,14 @@ const SoftwareIcon = () => (
   </svg>
 );
 
+// Same mark as the cors.idi.com.gt app favicon (redrawn as SVG in static/img/cors/)
+const CorsNetworkIcon = () => (
+  <img src="/img/cors/cors-icon.svg" alt="" width="56" height="56" />
+);
+
 // ── Category data ──────────────────────────────────────────────
 const CATEGORIES = [
+  { label: 'Red IDi-CORS',  link: '/docs/cors',          Icon: CorsNetworkIcon },
   { label: 'Drones',        link: '/docs/drones',        Icon: DroneIcon    },
   { label: 'Cargadores',    link: '/docs/cargadores',    Icon: CargadorIcon },
   { label: 'Sensores',      link: '/docs/sensores',      Icon: SensorIcon   },
