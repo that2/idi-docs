@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Red IDi-CORS">
+  <circle cx="32" cy="32" r="32" fill="#EC9144"/>
+  <path d="M9 26 C 12 9, 20 7, 25 18 S 33 48, 39 51 S 50 44, 55 38" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round"/>
+  <g fill="#fff" opacity="0.8">
+    <rect x="25" y="10" width="13" height="3" rx="1"/>
+    <path d="M26 14.5 H37 L35 17 H28 Z"/>
+    <rect x="29" y="17" width="5" height="13"/>
+    <rect x="28" y="30" width="8" height="6" rx="1"/>
+    <g stroke="#fff" stroke-width="2.6" stroke-linecap="round" fill="none">
+      <path d="M29 36 L20 52"/>
+      <path d="M35 36 L41 52"/>
+      <path d="M32 36 V52" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
