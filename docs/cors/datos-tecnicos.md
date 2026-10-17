@@ -2,7 +2,7 @@
 id: datos-tecnicos
 title: Datos técnicos de las estaciones
 sidebar_label: Datos técnicos
-sidebar_position: 2
+sidebar_position: 1
 description: Marco de referencia, coordenadas, altura, antena y contenido de los archivos RINEX de las estaciones IDi-CORS.
 tags: [cors, gnss, rinex, coordenadas, antena, ign]
 ---
