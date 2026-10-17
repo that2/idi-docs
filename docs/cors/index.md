@@ -31,18 +31,7 @@ Para configurar su equipo con las correcciones NTRIP, consulte las guías de **[
 
 ## 2️⃣ Antenas y coordenadas de las estaciones
 
-:::info[Antenas y coordenadas]
-
-Las estaciones utilizan la antena **Beitian BT-300S** (código IGS `BEIBT300S NONE`). Su calibración puede consultarse en el sitio de calibración de antenas de NOAA: **[NGS ANTCAL](https://geodesy.noaa.gov/ANTCAL/index.xhtml)**.
-
-- **[Archivo ANTEX](https://geodesy.noaa.gov/ANTCAL/LoadFile?file=BEIBT300S_NONE.atx)**
-- **[Archivo ANTINFO](https://geodesy.noaa.gov/ANTCAL/LoadFile?file=BEIBT300S_NONE.003)**
-
-Las coordenadas de la estación y el modelo de antena están indicados en el encabezado de cada archivo RINEX y en las correcciones NTRIP.
-
-Para otras consultas escriba a **[info@idi.com.gt](mailto:info@idi.com.gt)**.
-
-:::
+Las estaciones utilizan la antena **Beitian BT-300S** (`BEIBT300S NONE`) y sus coordenadas están referidas al marco del **IGN de Guatemala**. Consulte el marco de referencia, la altura, la calibración de la antena y el contenido de los archivos RINEX en **[Datos técnicos de las estaciones](/docs/cors/datos-tecnicos)**.
 
 ---
 
